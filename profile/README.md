@@ -1,7 +1,11 @@
-Temp Readme for Company Org
+<h1>**MagnaWave™</h1>
 
-Members:
+## Temp Readme for Company Organization
 
-David Allen the Second (D2) @Votlon
-Adam Triebsch @Medik55
-Zach Bivins @zrbiv
+### Members:
+
+#### David Allen the Second (D2) **@Votlon**
+
+#### Adam Triebsch **@Medik55**
+
+#### Zach Bivins **@zrbiv**
