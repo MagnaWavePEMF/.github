@@ -1,4 +1,4 @@
-<h1>**MagnaWave™</h1>
+<h1>**MagnaWave™**</h1>
 
 ## Temp Readme for Company Organization
 
