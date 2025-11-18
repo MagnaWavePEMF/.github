@@ -4,8 +4,6 @@
 
 ### Members:
 
-#### David Allen the Second (D2) **@Votlon**
-
 #### Zach Bivins **@zrbiv**
 
 #### Cameron O'Nan **@camonan**
