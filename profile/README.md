@@ -7,5 +7,3 @@
 #### Zach Bivins **@zrbiv**
 
 #### Cameron O'Nan **@camonan**
-
-#### Adam Triebsch **@Medik55**
